@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -38,4 +39,5 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pavansambare084-code/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
