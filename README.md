@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/pavansambare084-code/DSA/tree/master/0162-find-peak-element) |
 ## Binary Search
 |  |
@@ -40,4 +41,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/pavansambare084-code/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
