@@ -17,6 +17,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pavansambare084-code/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/pavansambare084-code/DSA/tree/master/0162-find-peak-element) |
 ## Binary Search
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/pavansambare084-code/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
