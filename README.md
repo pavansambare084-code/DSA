@@ -15,6 +15,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pavansambare084-code/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [3925-concatenate-array-with-reverse](https://github.com/pavansambare084-code/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pavansambare084-code/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/pavansambare084-code/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
