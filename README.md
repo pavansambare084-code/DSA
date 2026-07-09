@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pavansambare084-code/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -76,4 +77,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/pavansambare084-code/DSA/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
