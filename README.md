@@ -13,6 +13,7 @@
 | [0633-sum-of-square-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pavansambare084-code/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pavansambare084-code/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pavansambare084-code/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/pavansambare084-code/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
