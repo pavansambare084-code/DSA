@@ -8,6 +8,7 @@
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pavansambare084-code/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pavansambare084-code/DSA/tree/master/0509-fibonacci-number) |
@@ -39,6 +40,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pavansambare084-code/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [3925-concatenate-array-with-reverse](https://github.com/pavansambare084-code/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -46,6 +48,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pavansambare084-code/DSA/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0633-sum-of-square-numbers) |
 ## String
 |  |
@@ -91,6 +94,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pavansambare084-code/DSA/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -101,10 +105,15 @@
 | ------- |
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/pavansambare084-code/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/pavansambare084-code/DSA/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
