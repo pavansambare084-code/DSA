@@ -12,6 +12,7 @@
 | [0326-power-of-three](https://github.com/pavansambare084-code/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/pavansambare084-code/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pavansambare084-code/DSA/tree/master/2169-count-operations-to-obtain-zero) |
@@ -46,6 +47,7 @@
 | [0162-find-peak-element](https://github.com/pavansambare084-code/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/pavansambare084-code/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavansambare084-code/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
