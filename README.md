@@ -50,6 +50,7 @@
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -101,11 +102,13 @@
 | [0125-valid-palindrome](https://github.com/pavansambare084-code/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavansambare084-code/DSA/tree/master/3536-maximum-product-of-two-digits) |
