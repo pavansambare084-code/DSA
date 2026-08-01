@@ -16,6 +16,7 @@
 | [0633-sum-of-square-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pavansambare084-code/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavansambare084-code/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pavansambare084-code/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pavansambare084-code/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -72,6 +73,7 @@
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pavansambare084-code/DSA/tree/master/0125-valid-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
 | ------- |
