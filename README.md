@@ -27,6 +27,7 @@
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pavansambare084-code/DSA/tree/master/2169-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3925-concatenate-array-with-reverse](https://github.com/pavansambare084-code/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Number Theory
@@ -75,11 +76,13 @@
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pavansambare084-code/DSA/tree/master/0125-valid-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
