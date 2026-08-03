@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavansambare084-code/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/pavansambare084-code/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pavansambare084-code/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pavansambare084-code/DSA/tree/master/0344-reverse-string) |
