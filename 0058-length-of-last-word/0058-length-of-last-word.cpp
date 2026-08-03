@@ -8,7 +8,7 @@ public:
                 continue;
             }
             else{
-                if(s[i]==' ' || s[i]=='\n'){
+                if(s[i]==' '){
                     break;
                 }
                 else{
