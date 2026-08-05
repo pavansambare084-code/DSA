@@ -7,6 +7,7 @@
 | [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pavansambare084-code/DSA/tree/master/0326-power-of-three) |
@@ -36,6 +37,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pavansambare084-code/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -54,6 +56,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/pavansambare084-code/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -200,4 +203,20 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavansambare084-code/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
