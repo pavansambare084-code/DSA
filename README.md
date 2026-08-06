@@ -31,6 +31,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pavansambare084-code/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -65,6 +66,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavansambare084-code/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1929-concatenation-of-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
