@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/pavansambare084-code/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
@@ -52,6 +53,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pavansambare084-code/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavansambare084-code/DSA/tree/master/0040-combination-sum-ii) |
+| [0066-plus-one](https://github.com/pavansambare084-code/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavansambare084-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pavansambare084-code/DSA/tree/master/0136-single-number) |
