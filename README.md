@@ -59,6 +59,7 @@
 | [0040-combination-sum-ii](https://github.com/pavansambare084-code/DSA/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/pavansambare084-code/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavansambare084-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pavansambare084-code/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -140,6 +141,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/pavansambare084-code/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pavansambare084-code/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
@@ -190,6 +192,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
