@@ -107,6 +107,7 @@
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/pavansambare084-code/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/pavansambare084-code/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/pavansambare084-code/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -168,6 +169,7 @@
 | [0001-two-sum](https://github.com/pavansambare084-code/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavansambare084-code/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pavansambare084-code/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0242-valid-anagram](https://github.com/pavansambare084-code/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0888-fair-candy-swap](https://github.com/pavansambare084-code/DSA/tree/master/0888-fair-candy-swap) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/pavansambare084-code/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
