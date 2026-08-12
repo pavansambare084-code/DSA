@@ -68,6 +68,7 @@
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/pavansambare084-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -270,6 +271,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/pavansambare084-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Merge Sort
 |  |
