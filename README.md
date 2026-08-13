@@ -23,6 +23,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/pavansambare084-code/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/pavansambare084-code/DSA/tree/master/2169-count-operations-to-obtain-zero) |
 | [2235-add-two-integers](https://github.com/pavansambare084-code/DSA/tree/master/2235-add-two-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -46,6 +47,7 @@
 | ------- |
 | [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pavansambare084-code/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -85,6 +87,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavansambare084-code/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -301,4 +304,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pavansambare084-code/DSA/tree/master/0069-sqrtx) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
