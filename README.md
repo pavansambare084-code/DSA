@@ -88,6 +88,7 @@
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1929-concatenation-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavansambare084-code/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavansambare084-code/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -122,6 +123,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/pavansambare084-code/DSA/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/pavansambare084-code/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavansambare084-code/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Stack
