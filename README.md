@@ -60,6 +60,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/pavansambare084-code/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavansambare084-code/DSA/tree/master/0040-combination-sum-ii) |
+| [0053-maximum-subarray](https://github.com/pavansambare084-code/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/pavansambare084-code/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0088-merge-sorted-array) |
@@ -196,6 +197,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pavansambare084-code/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/pavansambare084-code/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavansambare084-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/pavansambare084-code/DSA/tree/master/0509-fibonacci-number) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pavansambare084-code/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/pavansambare084-code/DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/pavansambare084-code/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/pavansambare084-code/DSA/tree/master/0912-sort-an-array) |
