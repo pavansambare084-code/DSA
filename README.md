@@ -92,6 +92,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavansambare084-code/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -202,6 +203,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0888-fair-candy-swap](https://github.com/pavansambare084-code/DSA/tree/master/0888-fair-candy-swap) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -271,6 +273,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Quickselect
 |  |
