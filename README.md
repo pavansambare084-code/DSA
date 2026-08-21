@@ -89,6 +89,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavansambare084-code/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavansambare084-code/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavansambare084-code/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -204,6 +205,7 @@
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0888-fair-candy-swap](https://github.com/pavansambare084-code/DSA/tree/master/0888-fair-candy-swap) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
