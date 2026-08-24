@@ -236,6 +236,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2595-number-of-even-and-odd-bits](https://github.com/pavansambare084-code/DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Memoization
 |  |
 | ------- |
