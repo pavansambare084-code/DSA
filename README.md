@@ -84,6 +84,7 @@
 | [0216-combination-sum-iii](https://github.com/pavansambare084-code/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/pavansambare084-code/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/pavansambare084-code/DSA/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/pavansambare084-code/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
@@ -234,6 +235,7 @@
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/pavansambare084-code/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pavansambare084-code/DSA/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/pavansambare084-code/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
