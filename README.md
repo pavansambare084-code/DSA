@@ -147,6 +147,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavansambare084-code/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3110-score-of-a-string](https://github.com/pavansambare084-code/DSA/tree/master/3110-score-of-a-string) |
 | [3798-largest-even-number](https://github.com/pavansambare084-code/DSA/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
