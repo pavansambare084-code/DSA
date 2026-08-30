@@ -148,6 +148,7 @@
 | [1768-merge-strings-alternately](https://github.com/pavansambare084-code/DSA/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/pavansambare084-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pavansambare084-code/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavansambare084-code/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3110-score-of-a-string](https://github.com/pavansambare084-code/DSA/tree/master/3110-score-of-a-string) |
@@ -223,6 +224,7 @@
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavansambare084-code/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavansambare084-code/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
@@ -244,6 +246,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavansambare084-code/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/pavansambare084-code/DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Memoization
 |  |
@@ -300,6 +303,7 @@
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/pavansambare084-code/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Quickselect
 |  |
 | ------- |
