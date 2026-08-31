@@ -103,6 +103,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/pavansambare084-code/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1929-concatenation-of-array) |
@@ -378,4 +379,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pavansambare084-code/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/pavansambare084-code/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
