@@ -78,6 +78,7 @@
 | [0066-plus-one](https://github.com/pavansambare084-code/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/pavansambare084-code/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/pavansambare084-code/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavansambare084-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/pavansambare084-code/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -249,6 +250,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pavansambare084-code/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/pavansambare084-code/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/pavansambare084-code/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/pavansambare084-code/DSA/tree/master/0260-single-number-iii) |
@@ -298,6 +300,7 @@
 | [0046-permutations](https://github.com/pavansambare084-code/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/pavansambare084-code/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/pavansambare084-code/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pavansambare084-code/DSA/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
 |  |
