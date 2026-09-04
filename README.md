@@ -93,6 +93,7 @@
 | [0238-product-of-array-except-self](https://github.com/pavansambare084-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/pavansambare084-code/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/pavansambare084-code/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -203,6 +204,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/pavansambare084-code/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/pavansambare084-code/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pavansambare084-code/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0345-reverse-vowels-of-a-string) |
