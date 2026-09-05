@@ -126,6 +126,7 @@
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pavansambare084-code/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/pavansambare084-code/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/pavansambare084-code/DSA/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/pavansambare084-code/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
@@ -358,6 +359,7 @@
 | [0238-product-of-array-except-self](https://github.com/pavansambare084-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/pavansambare084-code/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/pavansambare084-code/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Merge Sort
 |  |
 | ------- |
