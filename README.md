@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pavansambare084-code/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pavansambare084-code/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/pavansambare084-code/DSA/tree/master/0067-add-binary) |
@@ -74,6 +75,7 @@
 | [0039-combination-sum](https://github.com/pavansambare084-code/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/pavansambare084-code/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/pavansambare084-code/DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/pavansambare084-code/DSA/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/pavansambare084-code/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/pavansambare084-code/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pavansambare084-code/DSA/tree/master/0078-subsets) |
@@ -405,5 +407,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/pavansambare084-code/DSA/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/pavansambare084-code/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
