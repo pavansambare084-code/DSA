@@ -35,6 +35,7 @@
 | [2413-smallest-even-multiple](https://github.com/pavansambare084-code/DSA/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/pavansambare084-code/DSA/tree/master/2427-number-of-common-factors) |
 | [2544-alternating-digit-sum](https://github.com/pavansambare084-code/DSA/tree/master/2544-alternating-digit-sum) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/pavansambare084-code/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/pavansambare084-code/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavansambare084-code/DSA/tree/master/3536-maximum-product-of-two-digits) |
