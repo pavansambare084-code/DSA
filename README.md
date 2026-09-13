@@ -106,6 +106,7 @@
 | [0283-move-zeroes](https://github.com/pavansambare084-code/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
+| [0605-can-place-flowers](https://github.com/pavansambare084-code/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/pavansambare084-code/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pavansambare084-code/DSA/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/pavansambare084-code/DSA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/pavansambare084-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
