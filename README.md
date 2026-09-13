@@ -107,6 +107,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/pavansambare084-code/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/pavansambare084-code/DSA/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/pavansambare084-code/DSA/tree/master/0905-sort-array-by-parity) |
@@ -382,6 +383,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/pavansambare084-code/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/pavansambare084-code/DSA/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/pavansambare084-code/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3903-smallest-stable-index-i](https://github.com/pavansambare084-code/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pavansambare084-code/DSA/tree/master/3904-smallest-stable-index-ii) |
