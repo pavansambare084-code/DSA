@@ -13,6 +13,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/pavansambare084-code/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/pavansambare084-code/DSA/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/pavansambare084-code/DSA/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/pavansambare084-code/DSA/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/pavansambare084-code/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/pavansambare084-code/DSA/tree/master/0326-power-of-three) |
@@ -209,6 +210,7 @@
 | [0050-powx-n](https://github.com/pavansambare084-code/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/pavansambare084-code/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/pavansambare084-code/DSA/tree/master/0206-reverse-linked-list) |
+| [0233-number-of-digit-one](https://github.com/pavansambare084-code/DSA/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/pavansambare084-code/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/pavansambare084-code/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
@@ -270,6 +272,7 @@
 | [0070-climbing-stairs](https://github.com/pavansambare084-code/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/pavansambare084-code/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pavansambare084-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0233-number-of-digit-one](https://github.com/pavansambare084-code/DSA/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/pavansambare084-code/DSA/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
