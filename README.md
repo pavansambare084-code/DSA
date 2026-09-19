@@ -120,6 +120,7 @@
 | [1200-minimum-absolute-difference](https://github.com/pavansambare084-code/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavansambare084-code/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavansambare084-code/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/pavansambare084-code/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pavansambare084-code/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -448,6 +449,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pavansambare084-code/DSA/tree/master/0048-rotate-image) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/pavansambare084-code/DSA/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1672-richest-customer-wealth](https://github.com/pavansambare084-code/DSA/tree/master/1672-richest-customer-wealth) |
 ## Algorithm X
 |  |
