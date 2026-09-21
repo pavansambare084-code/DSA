@@ -28,6 +28,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavansambare084-code/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/pavansambare084-code/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/pavansambare084-code/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -296,6 +297,7 @@
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/pavansambare084-code/DSA/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pavansambare084-code/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavansambare084-code/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2595-number-of-even-and-odd-bits](https://github.com/pavansambare084-code/DSA/tree/master/2595-number-of-even-and-odd-bits) |
 ## Memoization
