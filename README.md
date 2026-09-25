@@ -144,6 +144,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavansambare084-code/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2706-buy-two-chocolates](https://github.com/pavansambare084-code/DSA/tree/master/2706-buy-two-chocolates) |
 | [2942-find-words-containing-character](https://github.com/pavansambare084-code/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pavansambare084-code/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavansambare084-code/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -260,6 +261,7 @@
 | [0605-can-place-flowers](https://github.com/pavansambare084-code/DSA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/pavansambare084-code/DSA/tree/master/0881-boats-to-save-people) |
 | [1903-largest-odd-number-in-string](https://github.com/pavansambare084-code/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2706-buy-two-chocolates](https://github.com/pavansambare084-code/DSA/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pavansambare084-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Hash Table
 |  |
@@ -333,6 +335,7 @@
 | [1200-minimum-absolute-difference](https://github.com/pavansambare084-code/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavansambare084-code/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2706-buy-two-chocolates](https://github.com/pavansambare084-code/DSA/tree/master/2706-buy-two-chocolates) |
 | [3467-transform-array-by-parity](https://github.com/pavansambare084-code/DSA/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/pavansambare084-code/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
