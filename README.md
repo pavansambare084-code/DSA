@@ -123,6 +123,7 @@
 | [0905-sort-array-by-parity](https://github.com/pavansambare084-code/DSA/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pavansambare084-code/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/pavansambare084-code/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/pavansambare084-code/DSA/tree/master/1002-find-common-characters) |
 | [1200-minimum-absolute-difference](https://github.com/pavansambare084-code/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/pavansambare084-code/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pavansambare084-code/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -188,6 +189,7 @@
 | [0504-base-7](https://github.com/pavansambare084-code/DSA/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/pavansambare084-code/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/pavansambare084-code/DSA/tree/master/0709-to-lower-case) |
+| [1002-find-common-characters](https://github.com/pavansambare084-code/DSA/tree/master/1002-find-common-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/pavansambare084-code/DSA/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/pavansambare084-code/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -276,6 +278,7 @@
 | [0268-missing-number](https://github.com/pavansambare084-code/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/pavansambare084-code/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0888-fair-candy-swap](https://github.com/pavansambare084-code/DSA/tree/master/0888-fair-candy-swap) |
+| [1002-find-common-characters](https://github.com/pavansambare084-code/DSA/tree/master/1002-find-common-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
