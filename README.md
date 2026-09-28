@@ -482,4 +482,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/pavansambare084-code/DSA/tree/master/0037-sudoku-solver) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
