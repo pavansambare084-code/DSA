@@ -145,6 +145,7 @@
 | [2149-rearrange-array-elements-by-sign](https://github.com/pavansambare084-code/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavansambare084-code/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavansambare084-code/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/pavansambare084-code/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/pavansambare084-code/DSA/tree/master/2706-buy-two-chocolates) |
 | [2942-find-words-containing-character](https://github.com/pavansambare084-code/DSA/tree/master/2942-find-words-containing-character) |
@@ -292,6 +293,7 @@
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/pavansambare084-code/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/pavansambare084-code/DSA/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2351-first-letter-to-appear-twice](https://github.com/pavansambare084-code/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavansambare084-code/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavansambare084-code/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavansambare084-code/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
@@ -399,6 +401,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pavansambare084-code/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/pavansambare084-code/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavansambare084-code/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Enumeration
 |  |
 | ------- |
