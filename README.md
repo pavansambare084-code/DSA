@@ -136,6 +136,7 @@
 | [1512-number-of-good-pairs](https://github.com/pavansambare084-code/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/pavansambare084-code/DSA/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/pavansambare084-code/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/pavansambare084-code/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pavansambare084-code/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/pavansambare084-code/DSA/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/pavansambare084-code/DSA/tree/master/1929-concatenation-of-array) |
