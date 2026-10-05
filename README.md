@@ -196,6 +196,7 @@
 | [0504-base-7](https://github.com/pavansambare084-code/DSA/tree/master/0504-base-7) |
 | [0657-robot-return-to-origin](https://github.com/pavansambare084-code/DSA/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/pavansambare084-code/DSA/tree/master/0709-to-lower-case) |
+| [0856-score-of-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0856-score-of-parentheses) |
 | [1002-find-common-characters](https://github.com/pavansambare084-code/DSA/tree/master/1002-find-common-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pavansambare084-code/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -216,6 +217,7 @@
 | [0020-valid-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/pavansambare084-code/DSA/tree/master/0234-palindrome-linked-list) |
+| [0856-score-of-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pavansambare084-code/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/pavansambare084-code/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -507,6 +509,7 @@
 | [0020-valid-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/pavansambare084-code/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pavansambare084-code/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
