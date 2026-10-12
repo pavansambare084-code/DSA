@@ -157,6 +157,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pavansambare084-code/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pavansambare084-code/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavansambare084-code/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/pavansambare084-code/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/pavansambare084-code/DSA/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavansambare084-code/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavansambare084-code/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -453,6 +454,7 @@
 | [0238-product-of-array-except-self](https://github.com/pavansambare084-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/pavansambare084-code/DSA/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/pavansambare084-code/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3427-sum-of-variable-length-subarrays](https://github.com/pavansambare084-code/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3903-smallest-stable-index-i](https://github.com/pavansambare084-code/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/pavansambare084-code/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Merge Sort
