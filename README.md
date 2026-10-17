@@ -163,6 +163,7 @@
 | [3427-sum-of-variable-length-subarrays](https://github.com/pavansambare084-code/DSA/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3467-transform-array-by-parity](https://github.com/pavansambare084-code/DSA/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/pavansambare084-code/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3668-restore-finishing-order](https://github.com/pavansambare084-code/DSA/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavansambare084-code/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/pavansambare084-code/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
@@ -321,6 +322,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/pavansambare084-code/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/pavansambare084-code/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/pavansambare084-code/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3668-restore-finishing-order](https://github.com/pavansambare084-code/DSA/tree/master/3668-restore-finishing-order) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/pavansambare084-code/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/pavansambare084-code/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/pavansambare084-code/DSA/tree/master/3866-first-unique-even-element) |
