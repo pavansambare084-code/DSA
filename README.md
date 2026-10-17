@@ -120,6 +120,7 @@
 | [0283-move-zeroes](https://github.com/pavansambare084-code/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/pavansambare084-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/pavansambare084-code/DSA/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/pavansambare084-code/DSA/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/pavansambare084-code/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pavansambare084-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/pavansambare084-code/DSA/tree/master/0724-find-pivot-index) |
